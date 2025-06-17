@@ -14,9 +14,9 @@ This project is part of a Kaggle competition aimed at predicting the probability
 The Home Credit Risk Prediction project focuses on analyzing customer data to predict the likelihood of loan repayment. This involves handling a large dataset, performing feature engineering, and building predictive models to achieve high accuracy.
 
 The project is structured into three notebooks:
-- [credtit_EDA_prep.ipynb](credtit_EDA_prep.ipynb): Exploratory Data Analysis and Data Preparation
+- [credit_EDA_prep.ipynb](credit_EDA_prep.ipynb): Exploratory Data Analysis and Data Preparation
 - [credit_stat_inf.ipynb](credit_stat_inf.ipynb): Statistical Inference
-- [credit_risk_ML.ipynb](credit_risk_ML.ipynb): Machine Learning Model Development
+- [credit_risk_ML.ipynb](credit_risk_ML.ipynb): Machine Learning Model Development - created in Google Colab
 
 Write-up on the project plan: [Checklist and Plan](checklist.md)
 
